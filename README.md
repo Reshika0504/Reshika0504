@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-## 👨‍💻 About Me
 
-Hi there! I'm **Reshika**, a passionate software engineer specializing in C++ development.
 
+ I'm **Reshika**
 ## 🛠️ Technical Skills & Expertise
 
 <div align="center">

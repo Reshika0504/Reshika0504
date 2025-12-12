@@ -2,7 +2,7 @@
 
 
 
- I'm **Reshika**
+ I'm **Reshika Srivastava!!!!!!!**
 ## 🛠️ Technical Skills & Expertise
 
 <div align="center">

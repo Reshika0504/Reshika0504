@@ -2,7 +2,7 @@
 
 <p align="center">
   Backend &amp; Full Stack Engineer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; ML / AI<br/>
-  <em>SDE Intern @ I Am Still Alive · Open to SDE I / Backend roles · Graduating May 2026</em>
+  <em>SDE Intern @ I Am Still Alive · Open to SDE I / Backend roles · Graduating 2026</em>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## About
 
-B.Tech ECE, VIT Vellore (CGPA 8.60) — **Class of 2026.** Currently an **SDE Intern at I Am Still Alive**, a healthcare startup building an oncology and survivorship education platform — working on full-stack feature development and AI-assisted engineering workflows with cross-functional stakeholders.
+B.Tech ECE, VIT Vellore (CGPA 8.64) - **Class of 2026.** Currently an **SDE Intern at I Am Still Alive**, a healthcare startup building an oncology and survivorship education platform — working on full-stack feature development and AI-assisted engineering workflows with cross-functional stakeholders.
 
 Backend-first engineer: Node.js, Redis, MongoDB, REST API design, auth systems (JWT/RBAC), and caching at scale. Comfortable end-to-end — from system design to deployment.
 

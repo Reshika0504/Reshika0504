@@ -2,7 +2,7 @@
 
 <p align="center">
   Backend &amp; Full Stack Engineer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; ML / AI<br/>
-  <em>SDE Intern @ I Am Still Alive · Open to SDE I / Backend roles · Graduating 2026</em>
+  <em>SDE Intern @ I Am Still Alive · Open to SDE I / Backend roles · Graduating May 2026</em>
 </p>
 
 <p align="center">
@@ -23,28 +23,11 @@
 
 ## About
 
-B.Tech ECE, VIT Vellore (CGPA 8.64) - **Class of 2026.** Currently an **SDE Intern at I Am Still Alive**, a healthcare startup building an oncology and survivorship education platform — working on full-stack feature development and AI-assisted engineering workflows with cross-functional stakeholders.
+B.Tech ECE, VIT Vellore (CGPA 8.60) — **Class of 2026.** Currently an **SDE Intern at I Am Still Alive**, a healthcare startup building an oncology and survivorship education platform — shipping full-stack features and using AI-assisted workflows alongside cross-functional stakeholders. Previously interned at Netcon Technologies, contributing to a network-monitoring dashboard under the BharatNet project.
 
 Backend-first engineer: Node.js, Redis, MongoDB, REST API design, auth systems (JWT/RBAC), and caching at scale. Comfortable end-to-end — from system design to deployment.
 
-**Actively interviewing for SDE I / Backend / Full Stack roles**, graduating 2026.
-
----
-
-## Experience
-
-**SWE Intern · I Am Still Alive** — *Healthcare / HealthTech* &nbsp;|&nbsp; *Current*
-
-Contributing to the development of the organization's oncology and survivorship education platform.
-
-- Building and enhancing full-stack web applications using modern development technologies
-- Collaborating with stakeholders to deliver scalable, user-focused software solutions
-- Leveraging AI-assisted development workflows to accelerate feature development and innovation
-
-**Software Developer Intern · Netcon Technologies** — *Jul–Aug 2024, Raipur*
-
-- Contributed to frontend development of an internal dashboard monitoring GP network connectivity under the BharatNet project
-- Worked with backend/data teams to consume APIs and surface real-time network data
+**Actively interviewing for SDE I / Backend / Full Stack roles**, graduating May 2026.
 
 ---
 
@@ -108,9 +91,8 @@ Full-stack MERN expense tracker — JWT auth, dual-layer data integrity, and Mon
 
 ## Currently
 
-- SDE Intern at **I Am Still Alive**, shipping full-stack features for an oncology/survivorship platform
-- Interviewing for **SDE I / Backend / Full Stack** roles — graduating May 2026
 - Sharpening system design and DSA alongside internship work
+- Always open to a conversation about backend/full-stack roles
 
 ---
 

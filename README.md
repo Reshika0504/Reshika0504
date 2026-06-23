@@ -27,13 +27,13 @@ B.Tech ECE, VIT Vellore (CGPA 8.64) - **Class of 2026.** Currently an **SDE Inte
 
 Backend-first engineer: Node.js, Redis, MongoDB, REST API design, auth systems (JWT/RBAC), and caching at scale. Comfortable end-to-end — from system design to deployment.
 
-**Actively interviewing for SDE I / Backend / Full Stack roles**, graduating May 2026.
+**Actively interviewing for SDE I / Backend / Full Stack roles**, graduating 2026.
 
 ---
 
 ## Experience
 
-**SDE Intern · I Am Still Alive** — *Healthcare / HealthTech* &nbsp;|&nbsp; *Current*
+**SWE Intern · I Am Still Alive** — *Healthcare / HealthTech* &nbsp;|&nbsp; *Current*
 
 Contributing to the development of the organization's oncology and survivorship education platform.
 

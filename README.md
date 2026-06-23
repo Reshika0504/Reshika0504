@@ -1,8 +1,8 @@
 <h1 align="center">Reshika Srivastava</h1>
 
 <p align="center">
-  Backend &amp; Full Stack Engineer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; ML Pipelines<br/>
-  <em>Building systems that are fast, secure, and production-ready.</em>
+  Backend &amp; Full Stack Engineer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; ML / AI<br/>
+  <em>SDE Intern @ I Am Still Alive · Open to SDE I / Backend roles · Graduating May 2026</em>
 </p>
 
 <p align="center">
@@ -23,28 +23,56 @@
 
 ## About
 
-Final-year ECE student at VIT Vellore (CGPA 8.60) with 3 production-deployed systems and strong CS fundamentals.
-I write backend-first code — Node.js, Redis, MongoDB — and extend to full stack and ML when the problem calls for it.
+B.Tech ECE, VIT Vellore (CGPA 8.60) — **Class of 2026.** Currently an **SDE Intern at I Am Still Alive**, a healthcare startup building an oncology and survivorship education platform, where I work on full-stack feature development, scalable software design, and AI-assisted engineering workflows alongside stakeholders.
 
-Core strengths: system design, RESTful API architecture, auth systems (JWT / RBAC), Redis caching strategies, and building from 0 → deployment.
+Outside of that, I've shipped 10+ independent projects spanning full-stack systems, backend architecture, machine learning, and database engineering. I write backend-first code — Node.js, Redis, MongoDB, PostgreSQL — and extend to full stack, ML, and systems work when the problem calls for it.
+
+**Actively interviewing for SDE I / Backend / Full Stack roles at product and big tech companies**, starting May 2026.
+
+Core strengths: system design, RESTful API architecture, auth systems (JWT / RBAC), caching strategies, and building from 0 → deployment.
 
 ---
 
-## Projects
+## Experience
+
+**SDE Intern · I Am Still Alive** — *Healthcare / HealthTech* &nbsp;|&nbsp; *Current*
+
+Contributing to the development of the organization's oncology and survivorship education platform.
+
+- Building and enhancing full-stack web applications using modern development technologies
+- Collaborating with stakeholders to deliver scalable, user-focused software solutions
+- Leveraging AI-assisted development workflows to accelerate feature development and innovation
+
+**Software Developer Intern · Netcon Technologies** — *Jul–Aug 2024, Raipur*
+
+- Contributed to frontend development of an internal dashboard monitoring GP network connectivity under the BharatNet project
+- Worked with backend/data teams to consume APIs and surface real-time network data
+
+---
+
+## Featured Projects
 
 ### 🔷 Multi-Tenant SaaS CRM &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/Salesforce_mini) &nbsp; · &nbsp; [Live Demo](https://salesforce-mini-frontend.onrender.com)
 
 `Node.js` `Express.js` `MongoDB` `Redis` `React` `JWT` `RBAC` `AWS` `Swagger`
 
-Architected a scalable multi-tenant backend with tenant-isolated schema design — multiple organizations sharing one system with zero data bleed. Redis caching + indexed queries cut API latency by **~35%**. Enforced 3-tier access control (Admin / Manager / User) via middleware-based RBAC. Documented 20+ endpoints via Swagger, eliminating API contract ambiguity for new developers.
+Scalable multi-tenant backend with tenant-isolated schema design. Redis caching + indexed queries cut API latency by **~35%**. 3-tier RBAC (Admin/Manager/User) via middleware. 20+ endpoints documented via Swagger.
 
 ---
 
 ### 🔷 Notion-Like AI Document Editor &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/Notion-Like-AI-Document-Editor) &nbsp; · &nbsp; [Live Demo](https://notion-like-ai-document-editor.vercel.app/)
 
-`React` `Node.js` `AI Content Generation` `Drag-and-Drop` `Block Editor` `Vercel`
+`React` `Node.js` `AI Content Generation` `Drag-and-Drop` `Block Editor`
 
-Built a block-based document editor with AI-powered content generation and drag-and-drop block reordering. Optimized for real-time editing performance and smooth user workflows — inspired by Notion's UX, powered by custom backend logic and LLM integration.
+Notion-style block editor with AI-powered content generation and drag-and-drop block reordering, optimized for real-time editing performance.
+
+---
+
+### 🔷 AI Research Copilot &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/AI_Research_Copilot)
+
+`FastAPI` `LangChain` `ChromaDB` `Redis` `React` `RAG` `LLMs`
+
+RAG-based platform for contextual Q&A over PDFs and research documents using open-source LLMs. Hybrid retrieval (BM25 + embeddings), agentic workflows, citation-backed responses, hallucination checks, and evaluation pipelines.
 
 ---
 
@@ -52,15 +80,51 @@ Built a block-based document editor with AI-powered content generation and drag-
 
 `React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
 
-Full-stack MERN expense tracker built end-to-end — from REST API design to responsive UI — deployed live on Render. Secured with JWT stateless auth and role-scoped middleware. Enforced dual-layer data integrity (MongoDB schema validation + service-layer guards). MongoDB aggregation pipelines power category-wise spend analytics with fast query response.
+Full-stack MERN expense tracker — JWT auth, dual-layer data integrity, and MongoDB aggregation pipelines for category-wise spend analytics. Deployed live on Render.
 
 ---
 
-### 🔷 Real-Time Anomaly Detection System &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504)
+## Data, ML & Analytics
+
+### 📊 Banking Customer Churn Analysis &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/Banking_Customer_Churn_Analysis)
+
+`Python` `Pandas` `Scikit-learn` `SQL` `Power BI / Tableau`
+
+End-to-end churn prediction pipeline — data cleaning, customer segmentation, logistic regression & random forest models selected via ROC AUC, permutation importance for explainability, and dashboard-ready CSV/SQL outputs for business reporting.
+
+### 📊 Real-Time Analytics Dashboard &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/RealTime_Analytics_Dashboard)
+
+`PostgreSQL` `TimescaleDB` `SQL Optimization` `REST APIs`
+
+Real-time analytics platform processing time-series data with TimescaleDB hypertables. Query optimization and execution-plan analysis to reduce latency at simulated production-scale workloads.
+
+### 📊 Real-Time Anomaly Detection System &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/Anomaly_Detection_System)
 
 `Python` `TensorFlow` `MobileNetV2` `Bi-LSTM` `Flask` `OpenCV`
 
-End-to-end deep learning pipeline combining MobileNetV2 (CNN) for spatial features and Bi-LSTM for temporal modelling across 600+ surveillance videos. Achieved **93.3% validation accuracy** (improved from 88% via hyperparameter tuning). Flask REST API with automated SMTP alert system eliminates manual monitoring entirely.
+Deep learning pipeline combining MobileNetV2 (CNN) + Bi-LSTM for spatial-temporal modelling across 600+ surveillance videos. **93.3% validation accuracy.** Flask REST API with automated SMTP alerting.
+
+---
+
+## Systems & Enterprise Platforms
+
+### 🏦 Salesforce Loan Management System &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/Salesforce_Loan_Management_System)
+
+`Salesforce DX` `Apex` `LWC` `SOQL` `REST Callouts`
+
+End-to-end Salesforce loan application & approval system. Custom objects, Apex trigger-based eligibility validation, officer assignment via permission sets, approval lifecycle (Submitted → Funded), external credit-score integration via Named Credentials, and Apex test coverage with HTTP mocking.
+
+### 🏦 Advanced ATM Banking System &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/Advanced-ATM-Banking-System)
+
+`C++` `OOP` `STL` `Design Patterns`
+
+Enterprise-grade ATM system built in C++ with object-oriented design, STL containers, and design patterns powering 15+ advanced banking features.
+
+### ⚙️ Embedded LED Driver &nbsp; · &nbsp; [GitHub](https://github.com/Reshika0504/Device_Driver)
+
+`C` `Embedded Systems` `Memory-Mapped I/O`
+
+Hardware-agnostic C device driver for a memory-mapped GPIO LED — the same driver code runs against real MCU register addresses or a desktop simulation. Direct register-level control (direction/output registers, active-high/low pin config) with a clean public API and portable Makefile build.
 
 ---
 
@@ -68,11 +132,13 @@ End-to-end deep learning pipeline combining MobileNetV2 (CNN) for spatial featur
 
 | Layer | Technologies |
 |---|---|
-| **Backend** | Node.js · Express.js · Python · Flask · REST APIs |
+| **Backend** | Node.js · Express.js · Python · Flask · FastAPI · REST APIs |
 | **Frontend** | React · Tailwind CSS · HTML · CSS |
-| **Databases** | MongoDB · MySQL · Redis |
+| **Databases** | MongoDB · MySQL · PostgreSQL · TimescaleDB · Redis · ChromaDB |
 | **Auth & Security** | JWT · RBAC · Middleware Guards · Schema Validation |
-| **ML / AI** | TensorFlow · OpenCV · MobileNetV2 · Bi-LSTM · Scikit-Learn |
+| **ML / AI** | TensorFlow · OpenCV · MobileNetV2 · Bi-LSTM · Scikit-learn · LangChain · RAG |
+| **Enterprise** | Salesforce DX · Apex · LWC · SOQL |
+| **Systems** | C · C++ · OOP · STL · Embedded Systems · Memory-Mapped I/O |
 | **Languages** | C++ · Python · JavaScript · Java · SQL |
 | **Tools & Infra** | Git · AWS · Postman · Swagger · Render · Vercel |
 
@@ -87,16 +153,17 @@ End-to-end deep learning pipeline combining MobileNetV2 (CNN) for spatial featur
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshika0504&layout=compact&hide_border=true&langs_count=6" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshika0504&layout=compact&hide_border=true&langs_count=8" height="140" />
 </p>
 
 ---
 
 ## Currently
 
-- Preparing for **SDE I / Backend Developer** roles — available from **May 2026**
-- Strengthening system design depth and DSA patterns
-- Open to full-time roles, internships, and backend freelance projects
+- **SDE Intern at I Am Still Alive**, building full-stack features for an oncology/survivorship education platform
+- **Actively interviewing for SDE I / Backend / Full Stack roles at big tech and product companies** — graduating May 2026
+- Sharpening system design depth and DSA patterns alongside internship work
+- Open to full-time offers, and select freelance backend projects
 
 ---
 

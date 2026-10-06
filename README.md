@@ -23,7 +23,7 @@
 
 ## About
 
-B.Tech ECE, VIT Vellore (CGPA 8.60) — **Class of 2026.** Currently an **SDE Intern at I Am Still Alive**, a healthcare startup building an oncology and survivorship education platform — shipping full-stack features and using AI-assisted workflows alongside cross-functional stakeholders. Previously interned at Netcon Technologies, contributing to a network-monitoring dashboard under the BharatNet project.
+B.Tech, VIT Vellore (CGPA 8.60) — **Class of 2026.** Currently an **Product AI Lead at I Am Still Alive**, a healthcare startup building an oncology and survivorship education platform — shipping full-stack features and using AI-assisted workflows alongside cross-functional stakeholders. Previously interned at Netcon Technologies, contributing to a network-monitoring dashboard under the BharatNet project.
 
 Backend-first engineer: Node.js, Redis, MongoDB, REST API design, auth systems (JWT/RBAC), and caching at scale. Comfortable end-to-end — from system design to deployment.
 

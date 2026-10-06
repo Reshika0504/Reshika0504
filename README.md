@@ -1,8 +1,8 @@
 <h1 align="center">Reshika Srivastava</h1>
 
 <p align="center">
-  Backend &amp; Full Stack Engineer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; ML / AI<br/>
-  <em>SDE Intern @ I Am Still Alive · Open to SDE I / Backend roles · Graduating May 2026</em>
+  Software Engineer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; ML / AI<br/>
+  <em>Product AI Lead @ I Am Still Alive · Open to SDE I / Backend roles · Graduating May 2026</em>
 </p>
 
 <p align="center">

@@ -2,7 +2,7 @@
 
 <p align="center">
   Software Engineer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; ML / AI<br/>
-  <em>Product AI Lead @ I Am Still Alive · Open to SDE I / Backend roles · Graduating May 2026</em>
+  <em>Product AI Lead @ I Am Still Alive  </em>
 </p>
 
 <p align="center">

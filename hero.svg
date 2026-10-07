@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Reshika Srivastava — Product AI Lead and Software Engineer</title>
+  <desc id="desc">A dark gradient banner with a product-to-production system diagram in violet, cyan, mint, and coral.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D1D"/>
+      <stop offset=".54" stop-color="#111A35"/>
+      <stop offset="1" stop-color="#0B1730"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#AE8CFF"/>
+      <stop offset=".5" stop-color="#67D5F5"/>
+      <stop offset="1" stop-color="#61E9BC"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1D2B4B" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#111B35" stop-opacity=".82"/>
+    </linearGradient>
+    <radialGradient id="violetGlow">
+      <stop offset="0" stop-color="#783EEF" stop-opacity=".49"/>
+      <stop offset="1" stop-color="#783EEF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow">
+      <stop offset="0" stop-color="#23B9E5" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#23B9E5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#DCEBFF" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <filter id="smallGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+  <circle cx="115" cy="32" r="260" fill="url(#violetGlow)"/>
+  <circle cx="1050" cy="300" r="260" fill="url(#cyanGlow)"/>
+  <rect x="15" y="15" width="1170" height="360" rx="19" fill="none" stroke="#D9E7FF" stroke-opacity=".17"/>
+  <path d="M46 332H668" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity=".85"/>
+
+  <rect x="52" y="49" width="267" height="33" rx="16.5" fill="#182540" stroke="#A7BCE1" stroke-opacity=".3"/>
+  <circle cx="71" cy="65.5" r="4" fill="#AA8AFF"/>
+  <circle cx="86" cy="65.5" r="4" fill="#67D5F5"/>
+  <circle cx="101" cy="65.5" r="4" fill="#61E9BC"/>
+  <text x="116" y="70" fill="#C9D8F3" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.1">PRODUCT × AI × ENGINEERING</text>
+
+  <text x="52" y="161" fill="#FFFFFF" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="59" font-weight="800" letter-spacing="-2.6">Reshika</text>
+  <text x="52" y="226" fill="url(#accent)" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="59" font-weight="800" letter-spacing="-2.6">Srivastava</text>
+  <text x="55" y="270" fill="#E4EBFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing=".2">Product AI Lead <tspan fill="#8EA5C9">/</tspan> Software Engineer</text>
+  <text x="55" y="305" fill="#A8BBD9" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".7">AI PRODUCT BUILDER  ·  PRODUCTION SYSTEMS</text>
+  <text x="55" y="355" fill="#8EA5C9" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.3">FROM PRODUCT PROBLEMS TO SHIPPED SOFTWARE</text>
+
+  <g transform="translate(726 37)">
+    <circle cx="235" cy="155" r="129" fill="none" stroke="#9CB5E5" stroke-opacity=".13" stroke-width="1"/>
+    <circle cx="235" cy="155" r="97" fill="none" stroke="#7EDAEF" stroke-opacity=".13" stroke-width="1" stroke-dasharray="4 8"/>
+    <circle cx="235" cy="155" r="72" fill="#6C45DA" fill-opacity=".13" filter="url(#softGlow)"/>
+    <path d="M101 76 C155 74 174 111 200 136" fill="none" stroke="#AA8AFF" stroke-opacity=".7" stroke-width="2"/>
+    <path d="M280 58 C280 95 264 112 252 128" fill="none" stroke="#67D5F5" stroke-opacity=".7" stroke-width="2"/>
+    <path d="M291 214 C272 205 262 189 255 178" fill="none" stroke="#61E9BC" stroke-opacity=".7" stroke-width="2"/>
+    <path d="M105 245 C147 239 172 208 204 176" fill="none" stroke="#FFAD84" stroke-opacity=".7" stroke-width="2"/>
+
+    <circle cx="219" cy="155" r="56" fill="#7241D7" fill-opacity=".27" filter="url(#smallGlow)"/>
+    <rect x="172" y="128" width="126" height="55" rx="16" fill="url(#panel)" stroke="#B5C9EE" stroke-opacity=".5"/>
+    <text x="235" y="162" text-anchor="middle" fill="#F6F9FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.1">BUILD</text>
+
+    <rect x="15" y="53" width="139" height="47" rx="13" fill="url(#panel)" stroke="#A986FF" stroke-opacity=".85"/>
+    <circle cx="36" cy="76.5" r="5" fill="#A986FF"/>
+    <text x="49" y="82" fill="#F6F9FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">PRODUCT</text>
+
+    <rect x="274" y="30" width="93" height="47" rx="13" fill="url(#panel)" stroke="#67D5F5" stroke-opacity=".85"/>
+    <circle cx="295" cy="53.5" r="5" fill="#67D5F5"/>
+    <text x="308" y="59" fill="#F6F9FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">AI</text>
+
+    <rect x="264" y="211" width="170" height="47" rx="13" fill="url(#panel)" stroke="#61E9BC" stroke-opacity=".85"/>
+    <circle cx="285" cy="234.5" r="5" fill="#61E9BC"/>
+    <text x="298" y="240" fill="#F6F9FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing=".6">ENGINEERING</text>
+
+    <rect x="22" y="225" width="106" height="47" rx="13" fill="url(#panel)" stroke="#FFAD84" stroke-opacity=".85"/>
+    <circle cx="43" cy="248.5" r="5" fill="#FFAD84"/>
+    <text x="56" y="254" fill="#F6F9FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">SHIP</text>
+
+    <circle cx="161" cy="131" r="3" fill="#A986FF"/>
+    <circle cx="291" cy="91" r="3" fill="#67D5F5"/>
+    <circle cx="305" cy="198" r="3" fill="#61E9BC"/>
+    <circle cx="150" cy="207" r="3" fill="#FFAD84"/>
+  </g>
+</svg>

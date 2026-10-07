@@ -1,23 +1,12 @@
-<div align="center">
+![Reshika Srivastava — Product AI Lead, Software Engineer, AI Product Builder](hero.svg)
 
-<h1>Reshika Srivastava</h1>
-
-<p><strong>PRODUCT AI LEAD&nbsp; × &nbsp;SOFTWARE ENGINEER</strong><br>
-AI PRODUCT BUILDER</p>
-
-<p><em>From product questions to software people can actually use.</em></p>
-
-<p>🟣 PRODUCT &nbsp;→&nbsp; 🔵 AI &nbsp;→&nbsp; 🟢 ENGINEERING &nbsp;→&nbsp; 🟠 SHIP</p>
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/reshikasrivastava/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:reshika2354@gmail.com">Email</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Reshika0504">GitHub</a>
 </p>
-
-</div>
 
 > [!IMPORTANT]
 > **Currently building at I Am Still Alive:** healthcare product experiences where product decisions, AI-enabled workflows, backend engineering, and thoughtful interfaces meet.

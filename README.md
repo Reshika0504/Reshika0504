@@ -1,6 +1,11 @@
 ![Reshika Srivastava — Product AI Lead, Software Engineer, AI Product Builder](hero.svg)
 
 <p align="center">
+  <strong>Reshika Srivastava</strong> · Product AI Lead · Software Engineer · AI Product Builder<br>
+  From product problems to production systems.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/reshikasrivastava/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:reshika2354@gmail.com">Email</a>
@@ -8,71 +13,81 @@
   <a href="https://github.com/Reshika0504">GitHub</a>
 </p>
 
-> [!IMPORTANT]
-> **Currently building at I Am Still Alive:** healthcare product experiences where product decisions, AI-enabled workflows, backend engineering, and thoughtful interfaces meet.
+<p align="center">
+  <code>Product thinking</code> &nbsp; <code>AI workflows</code> &nbsp;
+  <code>Backend systems</code> &nbsp; <code>Full-stack delivery</code>
+</p>
 
-## 01 / Professional · Production Experience
+---
 
-| 🟣 I AM STILL ALIVE · HEALTHCARE PRODUCT |
+## 01 / Building in Production
+
+I work at the intersection of product direction and implementation, turning healthcare workflows into usable software.
+
+| 🟣 **I Am Still Alive** · Product AI Lead |
 | :--- |
-| **Product AI Lead** at a US-based healthcare and oncology startup. I work from product requirements and architecture through implementation, building patient, clinician, and community experiences. <br><br> My work includes Ask-the-Doctor and Virtual Tumor Board workflows, role-based access, AI-enabled experiences, content moderation, and responsive product features. <br><br> **Engineering:** Python · Django · Django REST Framework · REST APIs · WebSockets / Django Channels · Celery |
+| **Product:** Patient, clinician, and community experiences at a US-based healthcare and oncology startup, including Ask-the-Doctor and Virtual Tumor Board workflows.<br>**Engineering:** Django / DRF APIs, role-based access, WebSockets / Django Channels, Celery, AI-enabled workflows, and content moderation. |
 
-| 🔵 INTERNAL MANAGEMENT PORTAL · NEXT.JS |
+| 🔵 **Internal Management Portal** · Next.js |
 | :--- |
-| I contribute to an existing **Next.js** portal that connects employee, HR, and leadership workflows. It brings together employee records and reporting lines, attendance, daily updates and tasks, meetings and decisions, announcements, documents and policies, and Microsoft 365 / Teams calendar coordination. <br><br> My contribution spans role-aware experiences, product workflows, and server-enforced permissions. |
+| I contribute to an existing **Next.js** portal connecting employee, HR, and leadership workflows: people records, reporting lines, attendance, tasks, meeting decisions, announcements, policies, and Microsoft 365 / Teams calendar coordination.<br>**Focus:** Role-aware UX, product architecture, and server-enforced permissions. |
 
-<sub>Professional work is summarized here; company code is not presented as a public project.</sub>
+<sub>Professional work is summarized without sharing private company code.</sub>
 
-## 02 / Selected Public Work
+## 02 / Featured Projects
 
-| 🟠 01 · SPENDWISE |
+Product and engineering projects with code you can explore; live links are included where available.
+
+| 🟠 **Spendwise** · Personal finance product |
 | :--- |
-| A full-stack personal expense platform for tracking transactions, exploring category-level spending, and understanding monthly patterns. <br><br> **Built with** React · Node.js · Express.js · MongoDB · JWT <br><br> [View code →](https://github.com/Reshika0504/Expense_Management_System) &nbsp;·&nbsp; [Open live demo →](https://expense-management-system-frontend-3o3i.onrender.com/) |
+| Track expenses, understand category spending, and review monthly patterns through a responsive full-stack application.<br>**Stack:** React · Node.js · Express.js · MongoDB · JWT<br>[Repository →](https://github.com/Reshika0504/Expense_Management_System) &nbsp;·&nbsp; [Live demo →](https://expense-management-system-frontend-3o3i.onrender.com/) |
 
-| 🟣 02 · MULTI-TENANT SAAS CRM |
+| 🟣 **Multi-Tenant SaaS CRM** · Product architecture |
 | :--- |
-| A tenant-scoped CRM workspace for leads, contacts, and deals, with role-based access and audit tracking. <br><br> **Built with** React · Node.js · Express.js · MongoDB · JWT <br><br> [View code →](https://github.com/Reshika0504/Salesforce_mini) &nbsp;·&nbsp; [Open live demo →](https://salesforce-mini-frontend.onrender.com/) |
+| A tenant-scoped workspace for leads, contacts, and deals, with role-based access and audit tracking.<br>**Stack:** React · Node.js · Express.js · MongoDB · JWT<br>[Repository →](https://github.com/Reshika0504/Salesforce_mini) &nbsp;·&nbsp; [Live demo →](https://salesforce-mini-frontend.onrender.com/) |
 
-| 🔵 03 · NOTION-LIKE AI DOCUMENT EDITOR |
+| 🔵 **Notion-Like AI Document Editor** · AI product experience |
 | :--- |
-| A block-based writing canvas with drag-and-drop organization, local draft persistence, and AI writing actions. <br><br> **Built with** React · TypeScript · Zustand · Vite <br><br> [View code →](https://github.com/Reshika0504/Notion-Like-AI-Document-Editor) &nbsp;·&nbsp; [Open live demo →](https://notion-like-ai-document-editor.vercel.app/) |
+| A block-based writing canvas with drag-and-drop organization, local draft persistence, and AI writing actions.<br>**Stack:** React · TypeScript · Zustand · Vite<br>[Repository →](https://github.com/Reshika0504/Notion-Like-AI-Document-Editor) &nbsp;·&nbsp; [Live demo →](https://notion-like-ai-document-editor.vercel.app/) |
 
-| 🟢 04 · ANOMALY DETECTION IN SURVEILLANCE VIDEOS |
+| 🟢 **Anomaly Detection in Surveillance Videos** · Computer vision |
 | :--- |
-| A video-classification project that combines MobileNetV2 spatial features with temporal sequence modeling and a Flask upload interface. <br><br> **Built with** Python · TensorFlow / Keras · MobileNetV2 · LSTM · OpenCV · Flask <br><br> [View code and local run instructions →](https://github.com/Reshika0504/Anomaly_Detection_System) |
+| Video classification using MobileNetV2 spatial features and temporal sequence modeling, with a Flask upload interface.<br>**Stack:** Python · TensorFlow / Keras · OpenCV · Flask<br>[Repository and local run instructions →](https://github.com/Reshika0504/Anomaly_Detection_System) |
 
-## 03 / Engineering Palette
+<details>
+<summary><strong>More engineering work</strong></summary>
+<br>
+
+- [AI Research Copilot](https://github.com/Reshika0504/AI_Research_Copilot) — document retrieval and cited answers through a FastAPI service.
+- [Pulseboard Analytics](https://github.com/Reshika0504/RealTime_Analytics_Dashboard) — tenant-aware time-series ingestion and analytics with PostgreSQL, TimescaleDB, and Flask.
+
+</details>
+
+## 03 / Engineering Toolkit
 
 | Focus | Tools and systems |
 | :--- | :--- |
-| 🟣 **Product & web** | Next.js · React · TypeScript · JavaScript · Tailwind CSS |
-| 🔵 **Backend & workflows** | Python · Django / DRF · Node.js / Express · REST APIs · WebSockets / Django Channels · Celery |
-| 🟢 **Data & AI** | PostgreSQL · MongoDB · Redis · TensorFlow / Keras · OpenCV · AI integrations |
-| 🟠 **Delivery** | Git · GitHub Actions · authentication · role-based access |
+| Product & web | Next.js · React · TypeScript · Tailwind CSS |
+| Backend & workflows | Python · Django / DRF · Node.js / Express · REST APIs · WebSockets · Celery |
+| Data & AI | PostgreSQL · MongoDB · Redis · TensorFlow / Keras · OpenCV · AI integrations |
 
-## 04 / How I Build
-
-I start with the workflow and use AI where it helps the product, then carry the idea through engineering and release.
+## 04 / My Build Loop
 
 ```mermaid
 flowchart TD
-    P["01 · Understand the problem"] --> W["02 · Design the workflow"]
-    W --> E["03 · Engineer the system"]
-    E --> A["04 · Integrate AI where useful"]
-    A --> S["05 · Ship, learn, improve"]
+    P["Understand the product problem"] --> D["Design the workflow"]
+    D --> E["Engineer the system"]
+    E --> A["Integrate AI where it helps"]
+    A --> S["Ship · learn · improve"]
 
     style P fill:#6D28D9,stroke:#C4B5FD,color:#FFFFFF,stroke-width:2px
-    style W fill:#7C3AED,stroke:#C4B5FD,color:#FFFFFF,stroke-width:2px
+    style D fill:#7C3AED,stroke:#C4B5FD,color:#FFFFFF,stroke-width:2px
     style E fill:#1D4ED8,stroke:#93C5FD,color:#FFFFFF,stroke-width:2px
     style A fill:#047857,stroke:#6EE7B7,color:#FFFFFF,stroke-width:2px
     style S fill:#C2410C,stroke:#FDBA74,color:#FFFFFF,stroke-width:2px
 ```
 
----
-
-<div align="center">
-
-<strong>Have a product problem that needs both AI thinking and solid engineering?</strong><br>
-<a href="mailto:reshika2354@gmail.com">Let's connect →</a>
-
-</div>
+<p align="center">
+  <strong>Building a product that needs both AI thinking and solid engineering?</strong><br>
+  <a href="mailto:reshika2354@gmail.com">Let's connect →</a>
+</p>
